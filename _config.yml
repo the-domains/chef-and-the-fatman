@@ -1,0 +1,28 @@
+name: Chef and the Fatman
+favicon: null
+layout_spectrum: 0.17612395458854735
+typography_spectrum: 0.29154731426388025
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.2576326276175678
+  lightness: 0.7432189837563783
+  saturation: 0.7452142420224845
+  rhythmicContrast: 0.4065257632173598
+purpose: []
